@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "type": "project",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
