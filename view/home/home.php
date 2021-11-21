@@ -1,2 +1,2 @@
 
-    <h1>HOMECONTROLLER->index()</h1>
+    <h1>Ceci est un test !</h1>
